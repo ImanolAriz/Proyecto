@@ -1,0 +1,31 @@
+
+.p{
+    font-family: 'Open Sans';
+}
+.Titulo{
+    font-family: 'Enriqueta';
+}
+.Div_hijo{
+    display: inline-block;
+}
+.Img{
+    display: inline;
+    border-radius: 50%;
+}
+.Div_hijo {
+    max-width: 90%;
+    max-height: 90%;
+   }
+   .Img{
+    height: 200px;
+    width: 200px;
+   }
+   header {
+    width: 90%;
+    position: absolute;
+    z-index: 100;
+  }
+  .No{
+    color:#242424;
+    font-size: 13px;
+}

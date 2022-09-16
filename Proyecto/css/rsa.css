@@ -1,0 +1,110 @@
+.circulo {
+    width: 96px;
+    height: 110px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: black;
+    text-align: center;
+    margin-left: 250px;
+    font-family: Open Sans;
+}
+.titulo{
+    font-family: 'Enriqueta';
+}
+hr{
+    margin-top: -80px;
+    width: 500%;
+    height: 3px;
+  background-color: rgb(19, 195, 226);
+}
+nav {
+    float: right;
+  }
+  
+  nav ul {
+    list-style: none;
+
+  }
+  
+  nav ul li {
+    float: left;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+  }
+  nav ul li a {
+    display: block;
+    padding: 30px;
+    text-decoration: none;
+  }
+
+  header {
+    width: 90%;
+    position: absolute;
+    z-index: 100;
+  }.inicio{
+  color:rgb(17, 220, 235);
+}
+.inicio:hover{
+  color:gray;
+}
+.inicio1{
+  color:rgb(17, 220, 235);
+}
+.inicio1:hover{
+  color:gray;
+}
+.inicio2{
+  color:rgb(17, 220, 235);
+}
+.inicio2:hover{
+  color:gray;
+}
+.inicio3{
+  color:rgb(17, 220, 235);
+}
+.inicio3:hover{
+  color:gray;
+}.inicio4{
+  color:rgb(17, 220, 235);
+}
+.inicio4:hover{
+  color:gray;
+}.inicio5{
+  color:rgb(17, 220, 235);
+}
+.inicio5:hover{
+  color:gray;
+}
+.contenedor{
+  position: relative;
+  text-align: center;
+  margin: 5px;
+}
+
+
+.centrado{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -140px;
+  transform: translate(-50%, -50%);
+  color:#FFFFFF;
+  font-size: 13px;
+  font-family: 'Cormorant Garamond ligth';
+  text-align: justify;
+}
+.text{
+  position: absolute;
+  top: 50%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+  color:#FFFFFF;
+  font-size: 11px;
+  font-family: 'Cormorant Garamond ligth';
+  text-align: justify;
+}
+.No{
+    color:#242424;
+    font-size: 13px;
+}
